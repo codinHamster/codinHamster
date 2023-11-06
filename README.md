@@ -9,5 +9,6 @@ codinHamster/codinHamster is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![image](https://github.com/codinHamster/codinHamster/assets/149699474/c1c5080b-0770-4b8d-896c-c4d065d3536a)
+![image](https://github.com/codinHamster/codinHamster/assets/149699474/d86141be-0aab-446c-bfc6-eccfb9406138)
+
 
