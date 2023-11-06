@@ -32,4 +32,4 @@ Vous pouvez me contacter via les moyens suivants :
 <br>- via [X](https://twitter.com/CodinHamster)
 <br>- via [LinkedIn](https://www.linkedin.com/in/hamid-dinar) 
 
-<br>N'hésitez pas à me contacter pour discuter de projets, d'idées ou simplement pour échanger des idées.
+<br>N'hésitez pas à me contacter pour discuter de projets ou simplement pour échanger des idées.
