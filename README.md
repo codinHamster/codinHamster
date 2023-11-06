@@ -8,3 +8,5 @@
 codinHamster/codinHamster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![image](https://github.com/codinHamster/codinHamster/assets/149699474/125e28a2-b473-4251-90af-94cc967e81cb)
