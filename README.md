@@ -1,14 +1,27 @@
-- 👋 Hi, I’m @codinHamster
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Qui suis-je ?
+Hello, je suis Codin Hamster
 
-<!---
-codinHamster/codinHamster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Que suis-je ?
+Je suis un développeur Web et Mobile Fullstack JavaScript passionné par la création d'applications Web et Mobile modernes.
+<br>Bien que je me considère actuellement comme junior, je progresse et j'apprend constamment. Vous pourrez juger de mes compétences en explorant les projets que j'ai réalisés.
+Vous trouverez la liste et les liens des projets déployés plus bas.
 
+Ma spécialité : REACT.
+<br>Les sites web dynamiques en React (Next.JS) et les applications mobiles en React Native (Expo).
+
+### Que fais-je ?
+Actuellement je code quelques projets persos afin de renforcer mes compétences.
+<br>Je suis également ouvert à toutes opportunités de collaboration ou d'apprentissage.
+
+### Qu'ai-je réalisé ?
+N'hésitez pas à explorer ces projets pour avoir un aperçu de mon travail.
+
+### De quoi suis-je capable :
 ![image](https://github.com/codinHamster/codinHamster/assets/149699474/d86141be-0aab-446c-bfc6-eccfb9406138)
 
+### Comment me contacter ?
+Vous pouvez me contacter via les moyens suivants :
+<br>- via X :
+<br>- via [LinkedIn](https://www.linkedin.com/in/hamid-dinar) 
 
+<br>N'hésitez pas à me contacter pour discuter de projets, d'idées ou simplement pour échanger des idées.
