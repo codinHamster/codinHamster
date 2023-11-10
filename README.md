@@ -14,9 +14,13 @@ Actuellement je code quelques projets persos afin de renforcer mes compétences.
 <br>Je suis également ouvert à toutes opportunités de collaboration ou d'apprentissage.
 
 ### Qu'ai-je réalisé ?
-Voici quelques-uns des projets que j'ai réalisés :
+Voici quelques-uns de mes projets personnels :
 
-- [The Family PopCorn](https://thefamilypopcorn.vercel.app/)
+- 2023 : [The Family PopCorn](https://thefamilypopcorn.com/) (100% React via Next.js 14)
+
+- 2016 et 2022 : Deux autres e-commerces (WordPress + WooCommerce + CSS customisés)
+  
+- 2015 : [Sock De Couleurs](https://www.sockdecouleurs.com/) (WordPress + WooCommerce + un peu de CSS customisés)
 
 N'hésitez pas à explorer ces projets pour avoir un aperçu de mon travail.
 
