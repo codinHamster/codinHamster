@@ -37,3 +37,7 @@ Vous pouvez me contacter via les moyens suivants :
 <br>- via [LinkedIn](https://www.linkedin.com/in/hamid-dinar) 
 
 <br>N'hésitez pas à me contacter pour discuter de projets ou simplement pour échanger des idées.
+
+### Mon CV :
+Vous pouvez visualier mon CV via ce lien :
+(https://drive.google.com/file/d/1YcsY__ynUdWsV7VeHmxhuN2F03_1uLke/view?usp=drive_link)
