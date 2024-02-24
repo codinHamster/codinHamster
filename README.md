@@ -41,3 +41,6 @@ Vous pouvez me contacter via les moyens suivants :
 ### Mon CV :
 Vous pouvez visualier mon CV via ce lien :
 [CV via Google Drive](https://drive.google.com/file/d/1YcsY__ynUdWsV7VeHmxhuN2F03_1uLke/view?usp=drive_link)
+
+### Mon badge CodeWars :
+![Codewars](https://www.codewars.com/users/codinHamster/badges/large)
